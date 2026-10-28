@@ -1,6 +1,8 @@
 {
-  "name": "Nocturne Estate",
-  "description": "Private architectural portfolio and luxury real estate acquisitions platform featuring nocturnal gallery aesthetics, interactive property dossiers, and private viewing scheduling.",
+  "name": "Pakistan Real Estate",
+  "description": "Pakistan Real Estate",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
